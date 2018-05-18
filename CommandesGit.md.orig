@@ -33,6 +33,10 @@ Créer Branch
 Changer branch
 	git checkout NomDeLaBranche
 
+<<<<<<< HEAD
 Ajout Conflit dans Master
 
 autre ligne en plus
+=======
+Ajout conflit dans branchTest2
+>>>>>>> branchTest
