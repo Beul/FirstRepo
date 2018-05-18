@@ -20,3 +20,8 @@ Modifier le message du dernier commit (attention slmt si pas déjà pushé sur l
 	git commit --amend -m "Nv message"
 Annuler tous changements depuis dernier commit
 	git reset --hard
+Clone autre repo
+	git clone "CleHttps"
+Push sur origin
+	git push origin master
+
