@@ -33,4 +33,4 @@ Créer Branch
 Changer branch
 	git checkout NomDeLaBranche
 
-Ajout conflit dans branchTest
+Ajout conflit dans branchTest2
