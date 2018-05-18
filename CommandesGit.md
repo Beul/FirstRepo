@@ -28,3 +28,7 @@ Pull sur origin
 	git pull origin master
 Voir les branches
 	git branch
+Créer Branch
+	git branch NomDeLaBranche
+Changer branch
+	git checkout NomDeLaBranche
