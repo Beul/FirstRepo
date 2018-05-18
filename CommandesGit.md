@@ -32,3 +32,7 @@ Créer Branch
 	git branch NomDeLaBranche
 Changer branch
 	git checkout NomDeLaBranche
+
+Ajout Conflit dans Master
+
+autre ligne en plus
