@@ -24,4 +24,6 @@ Clone autre repo
 	git clone "CleHttps"
 Push sur origin
 	git push origin master
+Pull sur origin
+	git pull origin master
 
